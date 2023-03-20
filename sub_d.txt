@@ -1,0 +1,8 @@
+www
+vpn
+prod
+api
+dev
+ftp
+staging
+mail
